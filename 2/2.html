@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS&CSS CLOCK</title>
+    <link rel="stylesheet" href="./2.css">
+</head>
+<body>
+    <div class="clock">
+        <!-- 時針 分針 秒針-->
+        <div class="hand hour-hand"></div> 
+        <div class="hand min-hand"></div>
+        <div class="hand second-hand"></div>
+    </div>
+
+    <!-- javascript -->
+    <script>
+        const hourHand = document.querySelector('.hour-hand');
+        const minHand = document.querySelector('.min-hand');
+        const secondHand = document.querySelector('.second-hand');
+
+
+        function handRotate(){
+            const now = new Date();
+            const seconds = now.getSeconds();
+            const minutes = now.getMinutes();
+            const hours = now.getHours();
+            
+            secondHand.style.transform = `rotate(${(seconds*6 + 270) % 360}deg)`;
+            minHand.style.transform = `rotate(${(minutes*6 + 270) % 360}deg)`;
+            hourHand.style.transform = `rotate(${(hours*30 + 270) % 360}deg)`;
+        }
+
+
+        setInterval(handRotate, 1000);
+    </script>
+</body>
+</html>
