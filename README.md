@@ -5,7 +5,7 @@
 
 - [x] Drum kit	
 - [x] JS and CSS Clock	
-- [ ] Update CSS variable with JS	
+- [x] Update CSS variable with JS	
 - [ ] Array Cardio Day 1	
 - [ ] Flex Panel Gallery	
 - [ ] Type Ahead	
