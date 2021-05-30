@@ -1,0 +1,52 @@
+:root{
+    --base: #ffc600;
+    --spacing: 20px;
+    --blur: 0px;
+}
+
+img{
+    margin-top: 50px;
+    width: 800px;
+    background: var(--base);
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #193549;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+body{
+    text-align: center;
+}
+
+h2{
+    font-size: 75px;
+    margin: 75px 0px;
+}
+
+h2 > span{
+    color: var(--base);
+}
+
+.controls label{
+    font-size: 45px;
+    margin-right: 20px;
+}
+
+.controls input{
+    margin-right: 20px;
+}
+
+.controls input[type="color"]{
+    width: 100px;
+    height: 25px;
+}
