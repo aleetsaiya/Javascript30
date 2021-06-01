@@ -7,7 +7,7 @@
 - [x] JS and CSS Clock	
 - [x] Update CSS variable with JS	
 - [x] Array Cardio Day 1	
-- [ ] Flex Panel Gallery	
+- [x] Flex Panel Gallery	
 - [ ] Type Ahead	
 - [ ] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
