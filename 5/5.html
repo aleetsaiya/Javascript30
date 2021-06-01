@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="./5.css">
+</head>
+<body>
+    <div class="panels">
+        <div class="panel1 panel">
+            <p>Hey</p>
+            <p>Let's</p>
+            <p>Dance</p>
+        </div>
+        <div class="panel2 panel">
+            <p>Give</p>
+            <p>Take</p>
+            <p>Receive</p>
+        </div>
+        <div class="panel3 panel">
+            <p>Experience</p>
+            <p>It</p>
+            <p>Today</p>
+        </div>
+        <div class="panel4 panel">
+            <p>Give</p>
+            <p>All</p>
+            <p>You can</p>
+        </div>
+        <div class="panel5 panel">
+            <p>Life</p>
+            <p>In</p>
+            <p>Motion</p>
+        </div>
+    </div>
+
+    <script>
+        function toggle(e) {
+            if (e.propertyName === 'flex-grow')
+                this.classList.toggle('open-active');
+        }
+
+        function bigger(e) {
+            this.classList.toggle('open');
+        }
+
+        const panels = document.querySelectorAll('.panel');
+        panels.forEach(panel => panel.addEventListener('click', bigger));
+        panels.forEach(panel => panel.addEventListener('transitionend', toggle));
+    </script>
+</body>
+</html>
