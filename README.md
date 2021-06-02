@@ -8,7 +8,7 @@
 - [x] Update CSS variable with JS	
 - [x] Array Cardio Day 1	
 - [x] Flex Panel Gallery	
-- [ ] Type Ahead	
+- [x] Type Ahead	
 - [ ] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
 - [ ] Dev Tools Domination
