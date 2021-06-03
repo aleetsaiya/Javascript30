@@ -9,7 +9,7 @@
 - [x] Array Cardio Day 1	
 - [x] Flex Panel Gallery	
 - [x] Type Ahead	
-- [ ] Array Cardio Day 2
+- [x] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
 - [ ] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
