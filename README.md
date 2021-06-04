@@ -10,7 +10,7 @@
 - [x] Flex Panel Gallery	
 - [x] Type Ahead	
 - [x] Array Cardio Day 2
-- [ ] Fun with HTML5 Canvas
+- [x] Fun with HTML5 Canvas
 - [ ] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player	
