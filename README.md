@@ -11,7 +11,7 @@
 - [x] Type Ahead	
 - [x] Array Cardio Day 2
 - [x] Fun with HTML5 Canvas
-- [ ] Dev Tools Domination
+- [x] Dev Tools Domination
 - [ ] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player	
 - [ ] Key Sequence Detection
