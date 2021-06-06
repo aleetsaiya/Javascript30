@@ -12,7 +12,7 @@
 - [x] Array Cardio Day 2
 - [x] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
-- [ ] Hold Shift and Check Checkboxes
+- [x] Hold Shift and Check Checkboxes
 - [ ] Custom Video Player	
 - [ ] Key Sequence Detection
 - [ ] Slide in on Scroll	
