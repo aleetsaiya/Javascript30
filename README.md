@@ -13,7 +13,7 @@
 - [x] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
 - [x] Hold Shift and Check Checkboxes
-- [ ] Custom Video Player	
+- [x] Custom Video Player	
 - [ ] Key Sequence Detection
 - [ ] Slide in on Scroll	
 - [ ] JavaScript References VS Copying
