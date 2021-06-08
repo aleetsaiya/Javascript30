@@ -14,7 +14,7 @@
 - [x] Dev Tools Domination
 - [x] Hold Shift and Check Checkboxes
 - [x] Custom Video Player	
-- [ ] Key Sequence Detection
+- [x] Key Sequence Detection
 - [ ] Slide in on Scroll	
 - [ ] JavaScript References VS Copying
 - [ ] LocalStorage and Event Delegate

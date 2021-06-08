@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Key Detection</title>
+    <style>
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="hide">
+        <h3>You win!</h3>
+    </div>
+<script>
+const pressed = [];
+const secretCode = 'alee';
+
+window.addEventListener('keyup', (e) => {
+    pressed.push(e.key);
+    if(pressed.length - secretCode.length > 0)
+        pressed.shift();
+    
+    if(pressed.join('').includes(secretCode)){
+        console.log('DING DING!');
+        document.querySelector('.hide').style.display = "block";
+    }
+    console.log(pressed);
+});
+</script>
+</body>
+</html>
