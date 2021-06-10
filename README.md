@@ -15,7 +15,7 @@
 - [x] Hold Shift and Check Checkboxes
 - [x] Custom Video Player	
 - [x] Key Sequence Detection
-- [ ] Slide in on Scroll	
+- [x] Slide in on Scroll	
 - [ ] JavaScript References VS Copying
 - [ ] LocalStorage and Event Delegate
 - [ ] Mouse Move Shadow	
