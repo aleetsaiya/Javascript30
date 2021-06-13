@@ -16,8 +16,8 @@
 - [x] Custom Video Player	
 - [x] Key Sequence Detection
 - [x] Slide in on Scroll	
-- [ ] JavaScript References VS Copying
-- [ ] LocalStorage and Event Delegate
+- [x] JavaScript References VS Copying
+- [x] LocalStorage and Event Delegate
 - [ ] Mouse Move Shadow	
 - [ ] Sort Without Articles
 - [ ] Adding Up Time With Reduce
