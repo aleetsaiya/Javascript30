@@ -1,7 +1,7 @@
 # Javascript30
 共包含30份作品，藉由練習這些小項目增加自己 Javascript 的熟練度。
 
-參考來源: https://dustinhsiao21.github.io/Javascript30-dustin/
+參考來源: https://github.com/wesbos/JavaScript30
 
 - [x] Drum kit	
 - [x] JS and CSS Clock	
@@ -18,7 +18,7 @@
 - [x] Slide in on Scroll	
 - [x] JavaScript References VS Copying
 - [x] LocalStorage and Event Delegate
-- [ ] Mouse Move Shadow	
+- [x] Mouse Move Shadow	
 - [ ] Sort Without Articles
 - [ ] Adding Up Time With Reduce
 - [ ] WebCam Fun
