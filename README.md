@@ -19,7 +19,7 @@
 - [x] JavaScript References VS Copying
 - [x] LocalStorage and Event Delegate
 - [x] Mouse Move Shadow	
-- [ ] Sort Without Articles
+- [x] Sort Without Articles
 - [ ] Adding Up Time With Reduce
 - [ ] WebCam Fun
 - [ ] Speech Detection
