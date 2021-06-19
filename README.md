@@ -20,7 +20,7 @@
 - [x] LocalStorage and Event Delegate
 - [x] Mouse Move Shadow	
 - [x] Sort Without Articles
-- [ ] Adding Up Time With Reduce
+- [x] Adding Up Time With Reduce
 - [ ] WebCam Fun
 - [ ] Speech Detection
 - [ ] Geolocation	
