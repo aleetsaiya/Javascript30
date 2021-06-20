@@ -21,7 +21,7 @@
 - [x] Mouse Move Shadow	
 - [x] Sort Without Articles
 - [x] Adding Up Time With Reduce
-- [ ] WebCam Fun
+- [x] WebCam Fun
 - [ ] Speech Detection
 - [ ] Geolocation	
 - [ ] Follow Along Link Highlight	
