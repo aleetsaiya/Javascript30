@@ -22,7 +22,7 @@
 - [x] Sort Without Articles
 - [x] Adding Up Time With Reduce
 - [x] WebCam Fun
-- [ ] Speech Detection
+- [x] Speech Detection
 - [ ] Geolocation	
 - [ ] Follow Along Link Highlight	
 - [ ] Speech Synthesis	
