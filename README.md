@@ -23,7 +23,7 @@
 - [x] Adding Up Time With Reduce
 - [x] WebCam Fun
 - [x] Speech Detection
-- [ ] Geolocation	
+- [x] Geolocation	
 - [ ] Follow Along Link Highlight	
 - [ ] Speech Synthesis	
 - [ ] Sticky Nav	
