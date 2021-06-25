@@ -24,7 +24,7 @@
 - [x] WebCam Fun
 - [x] Speech Detection
 - [x] Geolocation	
-- [ ] Follow Along Link Highlight	
+- [x] Follow Along Link Highlight	
 - [ ] Speech Synthesis	
 - [ ] Sticky Nav	
 - [ ] Event Capture, Propagation, Bubbling and Once	
