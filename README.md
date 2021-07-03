@@ -25,9 +25,9 @@
 - [x] Speech Detection
 - [x] Geolocation	
 - [x] Follow Along Link Highlight	
-- [ ] Speech Synthesis	
-- [ ] Sticky Nav	
-- [ ] Event Capture, Propagation, Bubbling and Once	
+- [x] Speech Synthesis	
+- [x] Sticky Nav	
+- [x] Event Capture, Propagation, Bubbling and Once	
 - [ ] Stripe Follow Along Nav
 - [ ] Click and Drag	
 - [ ] Video speed controller	
