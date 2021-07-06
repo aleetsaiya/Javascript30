@@ -29,7 +29,7 @@
 - [x] Sticky Nav	
 - [x] Event Capture, Propagation, Bubbling and Once	
 - [x] Stripe Follow Along Nav
-- [ ] Click and Drag	
+- [x] Click and Drag	
 - [ ] Video speed controller	
 - [ ] Countdown Timer	
 - [ ] Whack a Hole!	
