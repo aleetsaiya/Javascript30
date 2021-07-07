@@ -30,6 +30,6 @@
 - [x] Event Capture, Propagation, Bubbling and Once	
 - [x] Stripe Follow Along Nav
 - [x] Click and Drag	
-- [ ] Video speed controller	
+- [x] Video speed controller	
 - [ ] Countdown Timer	
 - [ ] Whack a Hole!	
