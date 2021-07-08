@@ -31,5 +31,5 @@
 - [x] Stripe Follow Along Nav
 - [x] Click and Drag	
 - [x] Video speed controller	
-- [ ] Countdown Timer	
+- [x] Countdown Timer	
 - [ ] Whack a Hole!	
