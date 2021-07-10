@@ -1,8 +1,16 @@
 # Javascript30
-共包含30份作品，藉由練習這些小項目增加自己 Javascript 的熟練度。
+共包含30份教學，每一份都會有相對應的教學片，可以從 javascript30 官網或是 youtube 取得。
 
-參考來源: https://github.com/wesbos/JavaScript30
+## 目的
+藉由 30 天持續練習這些項目，來增加自己對 Javascript 的熟練度。
 
+## 來源
++ [javascript30 官網](https://javascript30.com/)
++ [javascript30 github](https://github.com/wesbos/JavaScript30)
++ [javascript30 youtube系列](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&ab_channel=WesBos)
++ [我的作品](https://aleetsaiya.github.io/javascript30/)
+
+## Day 1 - 30
 - [x] Drum kit	
 - [x] JS and CSS Clock	
 - [x] Update CSS variable with JS	
