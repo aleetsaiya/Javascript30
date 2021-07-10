@@ -32,4 +32,4 @@
 - [x] Click and Drag	
 - [x] Video speed controller	
 - [x] Countdown Timer	
-- [ ] Whack a Hole!	
+- [x] Whack a Hole!	
