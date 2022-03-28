@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Update CSS variable with JS</title>
+    <link rel="stylesheet" href="./3.css" />
+  </head>
+  <body>
+    <h2>Update CSS Variable with <span>JS</span></h2>
+    <div class="controls">
+      <label for="spacing">Spacing:</label>
+      <input
+        type="range"
+        name="spacing"
+        min="0"
+        max="100"
+        step="1"
+        value="20"
+        data-sizing="px"
+      />
+      <label for="blur">Blur:</label>
+      <input
+        type="range"
+        name="blur"
+        min="0"
+        max="20"
+        step="1"
+        value="0"
+        data-sizing="px"
+      />
+      <label for="base">Base Color</label>
+      <input type="color" name="base" value="#ffc600" />
+    </div>
+    <img src="./background.png" alt="image" />
+
+    <script>
+      const inputs = document.querySelectorAll(".controls input");
+
+      function update(e) {
+        // console.log(this.dataset); 獲得 data-* 的資訊
+        const suffix = this.dataset.sizing || "";
+        // console.log(this.name); 分別為 blur, spacing, base
+        document.documentElement.style.setProperty(
+          `--${this.name}`,
+          this.value + suffix
+        ); //設定 html document css變數
+      }
+
+      inputs.forEach((input) => {
+        input.addEventListener("change", update);
+        input.addEventListener("mousemove", update);
+      });
+    </script>
+  </body>
+</html>
